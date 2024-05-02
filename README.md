@@ -47,3 +47,23 @@ WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
 
 ## Mock-Up
+
+
+<img width="938" alt="image" src="https://github.com/MeerKar/Text-Editor-PWA/assets/116701851/1b35c08f-26aa-45cc-b3e4-6db4b6a5ab25">
+
+
+<img width="947" alt="image" src="https://github.com/MeerKar/Text-Editor-PWA/assets/116701851/d0bf7883-8fa9-4869-90b9-ac9511a4def8">
+
+<img width="1177" alt="image" src="https://github.com/MeerKar/Text-Editor-PWA/assets/116701851/21122cd5-ef6c-45be-8015-ee257d640c7f">
+
+<img width="506" alt="image" src="https://github.com/MeerKar/Text-Editor-PWA/assets/116701851/1c6dcf5a-4d46-4f7a-8df5-bea6336e53e3">
+
+<img width="670" alt="image" src="https://github.com/MeerKar/Text-Editor-PWA/assets/116701851/b6704e87-09e4-4a10-a482-f1ecb4c901bc">
+
+<img width="1187" alt="image" src="https://github.com/MeerKar/Text-Editor-PWA/assets/116701851/0d5992e5-680f-4fb5-b03d-e1a19b33341f">
+
+
+
+
+
+
