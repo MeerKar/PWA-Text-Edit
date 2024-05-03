@@ -54,6 +54,9 @@ https://pwa-text-edit-xd1h.onrender.com
 
 
 
+
+
+
 <img width="938" alt="image" src="https://github.com/MeerKar/Text-Editor-PWA/assets/116701851/1b35c08f-26aa-45cc-b3e4-6db4b6a5ab25">
 
 
