@@ -12,7 +12,7 @@ This project is to build a text editor that runs in the browser. The app isa sin
 
 To build this text editor, had to start with an existing application and implement methods for getting and storing data to an IndexedDB database. Have used a package called `idb`, which is a lightweight wrapper around the IndexedDB API. It features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
 
-You will deploy this full-stack application to Render using the [Render Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/render/render-deployment-guide).
+
 
 ## Problem
 
@@ -47,7 +47,12 @@ WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
 
 ## Mock-Up
+
+The PWA site is deployed through render and the you can find it below,
+
 https://pwa-text-edit-xd1h.onrender.com
+
+
 
 <img width="938" alt="image" src="https://github.com/MeerKar/Text-Editor-PWA/assets/116701851/1b35c08f-26aa-45cc-b3e4-6db4b6a5ab25">
 
